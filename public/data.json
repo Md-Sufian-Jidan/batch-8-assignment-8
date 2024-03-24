@@ -1,92 +1,98 @@
 [
   {
     "id": 1,
-    "category": "Blood Donation",
-    "title": "Donate Blood, Save Lives",
-    "description": "Your blood donation can save up to three lives. Join us in our mission to provide lifesaving blood to hospitals and patients in need.",
-    "img": "https://example.com/blood_donation.jpg",
-    "cardBg": "#FF5733", 
-    "source": "ChatGPT's Blood Drive"
+    "category": "Healthcare",
+    "title": "Support Maternal Health",
+    "description": "Your donation will provide essential healthcare services to expectant mothers in underserved communities, ensuring safe pregnancies and childbirth.",
+    "img": "https://i.imgur.com/KTsiZyH.jpeg",
+    "cardBg": "#FF5733"
   },
   {
     "id": 2,
-    "category": "Food Assistance",
-    "title": "Feed the Hungry",
-    "description": "Many families struggle to put food on the table. Support our food assistance program to provide nutritious meals to those in need, ensuring no one goes hungry.",
-    "img": "https://example.com/food_assistance.jpg",
-    "cardBg": "#33CCCC",
-    "source": "ChatGPT's Food Drive"
+    "category": "Education",
+    "title": "Equip Schools with Books",
+    "description": "Help us supply schools with textbooks and educational materials, empowering children with the knowledge they need to succeed.",
+    "img": "https://i.imgur.com/wjV0get.jpeg",
+    "cardBg": "#33CCCC"
   },
   {
     "id": 3,
-    "category": "Healthcare",
-    "title": "Healthcare for All",
-    "description": "Access to healthcare is a basic human right. Your donation will help us provide medical care, vaccinations, and health education to underserved populations around the world.",
-    "img": "https://example.com/healthcare.jpg",
-    "cardBg": "#FFC0CB",
-    "source": "ChatGPT's Health Initiative"
+    "category": "Food Assistance",
+    "title": "Feed the Hungry",
+    "description": "Join our efforts to provide nutritious meals to families facing food insecurity. Your donation will help alleviate hunger in our community.",
+    "img": "https://i.imgur.com/iSc0Xzx.jpeg",
+    "cardBg": "#FFC0CB"
   },
   {
     "id": 4,
-    "category": "Shelter Support",
-    "title": "Shelter the Homeless",
-    "description": "Help provide shelter and support services to homeless individuals and families. Your donation will make a difference in providing them with a safe and stable environment.",
-    "img": "https://example.com/shelter_support.jpg",
-    "cardBg": "#66CC99",
-    "source": "ChatGPT's Shelter Assistance Program"
+    "category": "Animal Welfare",
+    "title": "Rescue and Rehabilitate Wildlife",
+    "description": "Support our wildlife rehabilitation center to rescue and care for injured and orphaned animals, giving them a second chance at life in the wild.",
+    "img": "https://i.imgur.com/zM8z78G.jpeg",
+    "cardBg": "#66CC99"
   },
   {
     "id": 5,
-    "category": "Blood Donation",
-    "title": "Be a Hero, Donate Blood Today",
-    "description": "Every two seconds, someone in the world needs blood. Your donation can save lives. Join us in making a difference in the lives of those in need.",
-    "img": "https://example.com/blood_donation2.jpg",
-    "cardBg": "#FFD700",
-    "source": "ChatGPT's Urgent Appeal"
+    "category": "Community Development",
+    "title": "Build Sustainable Communities",
+    "description": "Your donation will fund community development projects, including clean water initiatives, infrastructure improvements, and vocational training programs.",
+    "img": "https://i.imgur.com/HpgXASa.jpeg",
+    "cardBg": "#FFD700"
   },
   {
     "id": 6,
-    "category": "Food Assistance",
-    "title": "Nourish the Needy",
-    "description": "Support our food distribution program to provide essential groceries to families facing food insecurity. Together, we can make sure everyone has enough to eat.",
-    "img": "https://example.com/food_assistance2.jpg",
-    "cardBg": "#4682B4",
-    "source": "ChatGPT's Community Outreach"
+    "category": "Disaster Relief",
+    "title": "Support Disaster Recovery Efforts",
+    "description": "Help communities rebuild after natural disasters. Your donation will provide emergency supplies, shelter, and long-term assistance to those affected.",
+    "img": "https://i.imgur.com/XgUpfu4.jpeg",
+    "cardBg": "#4682B4"
   },
   {
     "id": 7,
-    "category": "Healthcare",
-    "title": "Healthy Futures",
-    "description": "Invest in the health and well-being of communities by supporting our healthcare initiatives. Your contribution will provide essential medical services to those in need.",
-    "img": "https://example.com/healthcare2.jpg",
-    "cardBg": "#FFA07A",
-    "source": "ChatGPT's Wellness Campaign"
+    "category": "Environmental Conservation",
+    "title": "Protect Endangered Habitats",
+    "description": "Join us in preserving vital ecosystems and protecting endangered species. Your donation will support conservation efforts around the globe.",
+    "img": "https://i.ibb.co/cJNxnZy/sphere-with-trees.jpg",
+    "cardBg": "#FFA07A"
   },
   {
     "id": 8,
-    "category": "Shelter Support",
-    "title": "Housing Hope",
-    "description": "Help us provide stable housing and support services to individuals and families experiencing homelessness. Together, we can give them hope for a brighter future.",
-    "img": "https://example.com/shelter_support2.jpg",
-    "cardBg": "#87CEEB",
-    "source": "ChatGPT's Homelessness Relief Efforts"
+    "category": "Homelessness",
+    "title": "Provide Shelter and Support",
+    "description": "Support our homeless shelters to provide safe housing and essential services to individuals experiencing homelessness, helping them rebuild their lives.",
+    "img": "https://i.ibb.co/jbV1gfy/beggars-lying-side-street-with-dirty-clothes.jpg",
+    "cardBg": "#87CEEB"
   },
   {
     "id": 9,
-    "category": "Blood Donation",
-    "title": "Give the Gift of Life",
-    "description": "Blood is essential for surgeries, cancer treatment, chronic illnesses, and traumatic injuries. Your donation could save up to three lives. Donate blood today!",
-    "img": "https://example.com/blood_donation3.jpg",
-    "cardBg": "#20B2AA",
-    "source": "ChatGPT's Humanitarian Effort"
+    "category": "Medical Research",
+    "title": "Fund Cancer Research",
+    "description": "Your donation will fund groundbreaking cancer research, bringing us one step closer to finding a cure for this devastating disease.",
+    "img": "https://i.ibb.co/Z2C8YwT/lucas-vasques-9vn-ACv-X2748-unsplash.jpg",
+    "cardBg": "#20B2AA"
   },
   {
     "id": 10,
-    "category": "Food Assistance",
-    "title": "Share Your Plate",
-    "description": "Join us in the fight against hunger. Your donation will provide meals to children, families, and seniors facing food insecurity in our community.",
-    "img": "https://example.com/food_assistance3.jpg",
-    "cardBg": "#BA55D3",
-    "source": "ChatGPT's Hunger Relief Campaign"
+    "category": "Child Welfare",
+    "title": "Give Children a Brighter Future",
+    "description": "Support programs that provide education, healthcare, and protection to vulnerable children, ensuring they have the opportunity to thrive and succeed.",
+    "img": "https://i.ibb.co/zJr66xV/ismail-salad-osman-hajji-dirir-l-Xv-Ml-LRh-Oi8-unsplash.jpg",
+    "cardBg": "#BA55D3"
+  },
+  {
+    "id": 11,
+    "category": "Elderly Care",
+    "title": "Support Seniors in Need",
+    "description": "Your donation will provide essential care and support services to elderly individuals, ensuring they can age with dignity and independence.",
+    "img": "https://i.ibb.co/NCTDQwh/logan-weaver-lgnwvr-l-K0l9pzx-Lps-unsplash.jpg",
+    "cardBg": "#2E8B57"
+  },
+  {
+    "id": 12,
+    "category": "Education",
+    "title": "Empower Girls Through Education",
+    "description": "Support initiatives that promote girls' education, empowering them to break the cycle of poverty and reach their full potential.",
+    "img": "https://i.ibb.co/xFqCm7b/aaron-burden-6j-Yoil2-Gh-Vk-unsplash.jpg",
+    "cardBg": "#800000"
   }
 ]
