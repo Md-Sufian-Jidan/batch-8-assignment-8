@@ -20,6 +20,9 @@ const router = createBrowserRouter([
             {
                 path:'/statistic',
                 element: <h1>statistic...</h1>
+            },
+            {
+                path: '/donation-details/:id'
             }
         ]
     },

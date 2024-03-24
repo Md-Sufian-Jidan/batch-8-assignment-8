@@ -2,10 +2,11 @@
   {
     "id": 1,
     "category": "Blood Donation",
-    "title": "Save Lives, Donate Blood",
-    "description": "Join us in our mission to save lives by donating blood. Your donation can help patients in need of transfusions due to accidents, surgeries, or medical conditions.",
+    "title": "Donate Blood, Save Lives",
+    "description": "Your blood donation can save up to three lives. Join us in our mission to provide lifesaving blood to hospitals and patients in need.",
     "img": "https://example.com/blood_donation.jpg",
-    "source": "ChatGPT's Initiative"
+    "cardBg": "#FF5733", 
+    "source": "ChatGPT's Blood Drive"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "title": "Feed the Hungry",
     "description": "Many families struggle to put food on the table. Support our food assistance program to provide nutritious meals to those in need, ensuring no one goes hungry.",
     "img": "https://example.com/food_assistance.jpg",
-    "source": "ChatGPT's Call to Action"
+    "cardBg": "#33CCCC",
+    "source": "ChatGPT's Food Drive"
   },
   {
     "id": 3,
@@ -21,6 +23,7 @@
     "title": "Healthcare for All",
     "description": "Access to healthcare is a basic human right. Your donation will help us provide medical care, vaccinations, and health education to underserved populations around the world.",
     "img": "https://example.com/healthcare.jpg",
+    "cardBg": "#FFC0CB",
     "source": "ChatGPT's Health Initiative"
   },
   {
@@ -29,7 +32,8 @@
     "title": "Shelter the Homeless",
     "description": "Help provide shelter and support services to homeless individuals and families. Your donation will make a difference in providing them with a safe and stable environment.",
     "img": "https://example.com/shelter_support.jpg",
-    "source": "ChatGPT's Advocacy"
+    "cardBg": "#66CC99",
+    "source": "ChatGPT's Shelter Assistance Program"
   },
   {
     "id": 5,
@@ -37,6 +41,7 @@
     "title": "Be a Hero, Donate Blood Today",
     "description": "Every two seconds, someone in the world needs blood. Your donation can save lives. Join us in making a difference in the lives of those in need.",
     "img": "https://example.com/blood_donation2.jpg",
+    "cardBg": "#FFD700",
     "source": "ChatGPT's Urgent Appeal"
   },
   {
@@ -45,7 +50,8 @@
     "title": "Nourish the Needy",
     "description": "Support our food distribution program to provide essential groceries to families facing food insecurity. Together, we can make sure everyone has enough to eat.",
     "img": "https://example.com/food_assistance2.jpg",
-    "source": "ChatGPT's Community Care"
+    "cardBg": "#4682B4",
+    "source": "ChatGPT's Community Outreach"
   },
   {
     "id": 7,
@@ -53,6 +59,7 @@
     "title": "Healthy Futures",
     "description": "Invest in the health and well-being of communities by supporting our healthcare initiatives. Your contribution will provide essential medical services to those in need.",
     "img": "https://example.com/healthcare2.jpg",
+    "cardBg": "#FFA07A",
     "source": "ChatGPT's Wellness Campaign"
   },
   {
@@ -61,7 +68,8 @@
     "title": "Housing Hope",
     "description": "Help us provide stable housing and support services to individuals and families experiencing homelessness. Together, we can give them hope for a brighter future.",
     "img": "https://example.com/shelter_support2.jpg",
-    "source": "ChatGPT's Homelessness Relief"
+    "cardBg": "#87CEEB",
+    "source": "ChatGPT's Homelessness Relief Efforts"
   },
   {
     "id": 9,
@@ -69,6 +77,7 @@
     "title": "Give the Gift of Life",
     "description": "Blood is essential for surgeries, cancer treatment, chronic illnesses, and traumatic injuries. Your donation could save up to three lives. Donate blood today!",
     "img": "https://example.com/blood_donation3.jpg",
+    "cardBg": "#20B2AA",
     "source": "ChatGPT's Humanitarian Effort"
   },
   {
@@ -77,6 +86,7 @@
     "title": "Share Your Plate",
     "description": "Join us in the fight against hunger. Your donation will provide meals to children, families, and seniors facing food insecurity in our community.",
     "img": "https://example.com/food_assistance3.jpg",
-    "source": "ChatGPT's Hunger Relief"
+    "cardBg": "#BA55D3",
+    "source": "ChatGPT's Hunger Relief Campaign"
   }
 ]
