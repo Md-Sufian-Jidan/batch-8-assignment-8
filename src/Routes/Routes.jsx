@@ -3,6 +3,7 @@ import Root from "../Layout/Root"
 import Error from "../Pages/ErrorPage/Error"
 import Home from "../Home/Home"
 import DonationDetails from "../Pages/DonationDetails/DonationDetails"
+import Donation from "../Pages/Donation/Donation"
 
 const router = createBrowserRouter([
     {
@@ -16,7 +17,7 @@ const router = createBrowserRouter([
             },
             {
                 path:'/donation',
-                element: <h1>Donation...</h1>
+                element: <Donation />
             },
             {
                 path:'/statistic',
